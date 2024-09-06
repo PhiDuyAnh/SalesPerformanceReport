@@ -10,3 +10,7 @@ Using a sales dataset with more than 270.000 records to summarize key insights o
 - Product Category: Audio, Cameras and Camcorders, Cell phones, Computers, Games and Toys, Home Appliances, Music, Movies and Audio Books, TV and Video
 - Channel: Online, Catalog, Reseller, Store
 - Country: France, Germany, Ireland, Italy, Poland, Netherlands, United Kingdom, United States
+
+## Summary of Insights
+
+### Total Sales and Discount by Quarter
