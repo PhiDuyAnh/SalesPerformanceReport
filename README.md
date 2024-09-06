@@ -5,6 +5,8 @@ Using a sales dataset with more than 270.000 records to summarize key insights o
 
 ## Metrics
 - Sales: Total sales/revenue from products sold
+- Period: Annual revenue (1st January - 31st December 2019)
 - Product Class: Deluxe, Economy, Regular
 - Product Category: Audio, Cameras and Camcorders, Cell phones, Computers, Games and Toys, Home Appliances, Music, Movies and Audio Books, TV and Video
+- Channel: Online, Catalog, Reseller, Store
 - Country: France, Germany, Ireland, Italy, Poland, Netherlands, United Kingdom, United States
