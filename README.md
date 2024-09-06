@@ -4,7 +4,7 @@ Using a sales dataset with more than 270.000 records to summarize key insights o
 <img width="617" alt="sales" src="https://github.com/user-attachments/assets/19dc2724-5574-4042-be5f-7d9e668216f4"> 
 
 ## Metrics
-- Sales: Total sales from products sold
+- Sales: Total sales/revenue from products sold
 - Product Class: Deluxe, Economy, Regular
 - Product Category: Audio, Cameras and Camcorders, Cell phones, Computers, Games and Toys, Home Appliances, Music, Movies and Audio Books, TV and Video
 - Country: France, Germany, Ireland, Italy, Poland, Netherlands, United Kingdom, United States
