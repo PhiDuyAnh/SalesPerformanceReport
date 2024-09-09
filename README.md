@@ -5,7 +5,7 @@ Using a sales dataset of a multinational retail company with more than 270.000 r
 
 ## Metrics
 - Sales: Total sales/revenue from products sold
-- Period: Annual revenue (1st January - 31st December 2019)
+- Period: 1st January - 31st December 2019
 - Product Class: Deluxe, Economy, Regular
 - Product Category: Audio, Cameras and Camcorders, Cell phones, Computers, Games and Toys, Home Appliances, Music, Movies and Audio Books, TV and Video
 - Channel: Online, Catalog, Reseller, Store
